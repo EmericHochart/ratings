@@ -1,3 +1,10 @@
+## First React Component
+ 
+This is my first react component. I have a lot to learn and I hope to improve it as I learn React.
+ 
+This component gives a rating by selecting stars.
+
+----
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
